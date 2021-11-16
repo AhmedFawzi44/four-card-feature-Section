@@ -116,7 +116,7 @@ body {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     height: 5px;
-    background-color: var(--Orange);
+    background-color: var(--Blue);
 }
 
 .container #b4::before {
@@ -128,7 +128,7 @@ body {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     height: 5px;
-    background-color: var(--Blue);
+    background-color: var(--Orange);
 }
 
 .container .box h4 {
